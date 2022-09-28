@@ -1,8 +1,6 @@
-package com.example.Ejercicio456Spring.controller;
+package com.example.EjercicioLaptops.controller;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class LaptopControllerTest {
 

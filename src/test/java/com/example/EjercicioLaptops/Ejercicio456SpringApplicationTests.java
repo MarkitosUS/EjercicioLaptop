@@ -1,4 +1,4 @@
-package com.example.Ejercicio456Spring;
+package com.example.EjercicioLaptops;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

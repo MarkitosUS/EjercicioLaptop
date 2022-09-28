@@ -4,7 +4,7 @@
     <persistence-units>
       <persistence-unit name="Default">
         <packages>
-          <package value="com.example.Ejercicio456Spring" />
+          <package value="com.example.EjercicioLaptops" />
         </packages>
       </persistence-unit>
     </persistence-units>

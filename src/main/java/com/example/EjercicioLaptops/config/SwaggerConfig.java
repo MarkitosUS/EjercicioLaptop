@@ -1,4 +1,4 @@
-package com.example.Ejercicio456Spring.config;
+package com.example.EjercicioLaptops.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

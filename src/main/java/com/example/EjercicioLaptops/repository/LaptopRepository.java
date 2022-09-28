@@ -1,7 +1,7 @@
-package com.example.Ejercicio456Spring.repository;
+package com.example.EjercicioLaptops.repository;
 
 
-import com.example.Ejercicio456Spring.entities.Laptop;
+import com.example.EjercicioLaptops.entities.Laptop;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

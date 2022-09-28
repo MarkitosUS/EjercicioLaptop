@@ -1,4 +1,4 @@
-package com.example.Ejercicio456Spring.entities;
+package com.example.EjercicioLaptops.entities;
 
 import javax.persistence.*;
 

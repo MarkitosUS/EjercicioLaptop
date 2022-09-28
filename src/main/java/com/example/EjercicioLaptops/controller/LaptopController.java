@@ -1,7 +1,7 @@
-package com.example.Ejercicio456Spring.controller;
+package com.example.EjercicioLaptops.controller;
 
-import com.example.Ejercicio456Spring.entities.Laptop;
-import com.example.Ejercicio456Spring.repository.LaptopRepository;
+import com.example.EjercicioLaptops.entities.Laptop;
+import com.example.EjercicioLaptops.repository.LaptopRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;

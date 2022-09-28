@@ -1,4 +1,4 @@
-package com.example.Ejercicio456Spring.controller;
+package com.example.EjercicioLaptops.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

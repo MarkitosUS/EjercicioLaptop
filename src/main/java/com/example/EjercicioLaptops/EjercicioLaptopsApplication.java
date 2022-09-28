@@ -1,16 +1,16 @@
-package com.example.Ejercicio456Spring;
+package com.example.EjercicioLaptops;
 
-import com.example.Ejercicio456Spring.entities.Laptop;
-import com.example.Ejercicio456Spring.repository.LaptopRepository;
+import com.example.EjercicioLaptops.entities.Laptop;
+import com.example.EjercicioLaptops.repository.LaptopRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
 @SpringBootApplication
-public class Ejercicio456SpringApplication {
+public class EjercicioLaptopsApplication {
 
 	public static void main(String[] args) {
-		ApplicationContext context = SpringApplication.run(Ejercicio456SpringApplication.class, args);
+		ApplicationContext context = SpringApplication.run(EjercicioLaptopsApplication.class, args);
 		LaptopRepository repository = context.getBean(LaptopRepository.class);
 
 		// CREAR LIBRO
