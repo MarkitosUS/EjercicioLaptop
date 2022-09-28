@@ -18,7 +18,7 @@ public class Ejercicio456SpringApplication {
 		Laptop laptop = new Laptop(null, "Yakuza");
 
 		// ALMACENAR UN LAPTOP
-		System.out.println("Num libros en base de datos: " + repository.findAll().size());
+		System.out.println("Num laptops en base de datos: " + repository.findAll().size());
 		repository.save(laptop);
 
 		// RECUPERAR TODOS LOS LAPTOPS
